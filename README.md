@@ -18,4 +18,4 @@ Instead of using Playwright/TypeScript, I have implemented this task using **Pos
 4. Once imported, click on the collection name and select **Run Collection**.
 5. Alternatively, you can run it via **Newman** (CLI):
    ```bash
-   newman run API_Task.postman_collection.json
+   newman run TestTask_Postman.json
